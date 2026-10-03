@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of ramesh-dada/download-button.** Not for installation: use [Packagist](https://packagist.org/packages/ramesh-dada/download-button) or the [upstream repository](https://github.com/ramesh-dada/download-button).
 
-**0** versions archived · Latest: [`v8.1.4`](https://github.com/flarchive/ramesh-dada-download-button/tree/archive/v8.1.4) · License: `MIT` · Flarum: `^1.2`
+**13** versions archived · Latest: [`v8.1.4`](https://github.com/flarchive/ramesh-dada-download-button/tree/archive/v8.1.4) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2017-06-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ramesh-dada-download-button/tree/archive/v0.1.0) |
+| `0.1.2` | 2017-06-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ramesh-dada-download-button/tree/archive/v0.1.2) |
+| `0.1.3` | 2017-06-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ramesh-dada-download-button/tree/archive/v0.1.3) |
+| `0.1.5` | 2017-06-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ramesh-dada-download-button/tree/archive/v0.1.5) |
+| `0.1.6` | 2017-06-23 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ramesh-dada-download-button/tree/archive/v0.1.6) |
+| `0.2.0` | 2018-12-29 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/ramesh-dada-download-button/tree/archive/v0.2.0) |
+| `6.20` | 2021-07-09 | `^1.0` | [Browse](https://github.com/flarchive/ramesh-dada-download-button/tree/archive/v6.20) |
+| `6.21` | 2021-07-09 | `^1.0` | [Browse](https://github.com/flarchive/ramesh-dada-download-button/tree/archive/v6.21) |
+| `8.1.0` | 2021-07-10 | `^1.0` | [Browse](https://github.com/flarchive/ramesh-dada-download-button/tree/archive/v8.1.0) |
+| `8.1.1` | 2021-07-10 | `^1.0` | [Browse](https://github.com/flarchive/ramesh-dada-download-button/tree/archive/v8.1.1) |
+
+[View all 13 versions](https://github.com/flarchive/ramesh-dada-download-button/tags)
 
 Catalog entry: [packages/ramesh-dada-download-button.json](https://github.com/flarchive/archive-index/blob/main/packages/ramesh-dada-download-button.json)
 
